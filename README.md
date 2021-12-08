@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Tasnim Ahmed Auntik
+#### Junior Web developer
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-I am Auntik, from Bangladesh, I love to develop web apps with React JS. I love to build web apps I also have some knowledge about backend and Rest API. I'm learning about node js, express js, mongodb.
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taauntik)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on my projects 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/taauntik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tasnim-ahmed-auntik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dvauntik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC54xl7fDyRkVEs3bt-jbRng)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://my-personal-portfolio-da495.web.app/) 
 
 
 <!--
