@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Auntik, from Bangladesh, I love to develop web apps with React JS. I love to build web apps I also have some knowledge about backend and Rest API. I'm learning about node js, express js, mongodb.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taauntik)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **taauntik/taauntik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
