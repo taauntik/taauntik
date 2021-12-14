@@ -2,7 +2,7 @@
 #### Junior Web developer
 I love to work with web apps. I build web apps with React JS. I also have some knowledge about backend like mongodb, node js, express js, REST API.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / MERN stack
 
 - 🔭 I’m currently working on my projects 
 
