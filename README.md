@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Tasnim Ahmed Auntik
-#### Junior Web developer
+## Hi there 👋, I'm Tasnim Ahmed Auntik
+# Web developer
 I love to work with web apps. I build web apps with React JS. I also have some knowledge about backend like mongodb, node js, express js, REST API.
 
 Skills: REACT / JS / HTML / CSS / MERN stack
