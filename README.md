@@ -1,4 +1,4 @@
-# Hi there, I'm Tasnim 👋
+# Hi there, I'm Tasnim Ahmed Auntik 👋
 
 💻 **Frontend Developer | Support Engineer @ Bryntum**  
 🌍 Based in Dhaka, Bangladesh  
